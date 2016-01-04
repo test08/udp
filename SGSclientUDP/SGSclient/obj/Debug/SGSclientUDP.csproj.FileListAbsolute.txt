@@ -1,0 +1,8 @@
+C:\Users\ri\Desktop\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe
+C:\Users\ri\Desktop\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.pdb
+C:\Users\ri\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+C:\Users\ri\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+C:\Users\ri\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+C:\Users\ri\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.Cache
+C:\Users\ri\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+C:\Users\ri\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
